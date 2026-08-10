@@ -10,14 +10,25 @@
 
 ---
 
-📊 **GitHub Stats**
+📊 **GitHub Stats & Streaks**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oktaybilge1&show_icons=true&theme=tokyonight&count_private=true" alt="Oktay's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaybilge1&layout=compact&theme=tokyonight&hide=html,css" alt="Oktay's Top Languages" height="180px" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=oktaybilge1&show_icons=true&theme=tokyonight&count_private=true" alt="Oktay's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=oktaybilge1&layout=compact&theme=tokyonight&hide=html,css" alt="Oktay's Top Languages" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=oktaybilge1&theme=tokyonight" alt="Oktay's GitHub Streak" height="180px" />
 </p>
 
 </div>
+
+---
+
+## 📊 3D Isometric Contribution Graph
+
+Below is a 3D visualization of my contributions and commit activity over the past year, generated dynamically via GitHub Actions:
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Oktay's 3D Contribution Graph" width="100%" />
+</p>
 
 ---
 
